@@ -8,6 +8,10 @@ Este projeto nasceu de um aprendizado prático: criar uma matriz visual no **Mir
 
 A ideia é simples — **ver antes de codar**. A visualização ajuda a entender a estrutura antes de partir para a implementação.
 
+## 🖼️ Visualização da Matriz no Miro
+
+![Matriz Visual](assets/Representação%20Visual%20Matriz.jpeg)
+
 ## 📁 Estrutura do Projeto
 
 Matrizes/

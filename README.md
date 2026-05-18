@@ -14,8 +14,7 @@ A ideia é simples — **ver antes de codar**. A visualização ajuda a entender
 
 ## 📁 Estrutura do Projeto
 
-Matrizes/
-└── Matriz.java  ← Código principal da matriz
+src/Matriz.java  ← Código principal da matriz
 
 ## 🛠️ Tecnologias
 
